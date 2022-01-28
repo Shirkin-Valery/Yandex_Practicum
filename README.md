@@ -9,7 +9,7 @@
 | Тема | Название проекта | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Основы Python и анализа данных](01_Yandex_Music_project) | Анализ предпочтений пользователей Yandex.Music | *pandas* |
-|	[Предобработка данных](02_Customer_Credibility_project) | Исследование надёжности заёмщиков | *pandas* |
+|	[Предобработка данных](customer_credibility.ipynb) | Исследование надёжности заёмщиков | *pandas* |
 |	[Исследовательский анализ данных](sale_flat.ipynb) | Исследование объявлений о продаже квартир | *pandas*, *numpy*, *seaborn*, *matplotlib*, *pylab* |
 |	[Статистический анализ данных](mobile_phone_tariffs.ipynb) | Определение перспективного тарифа для телеком компании | *pandas*, *numpy*, *seaborn*, *matplotlib*, *pylab*, *datetime*, *scipy* |
 |	[Сборный проект - 1](games.ipynb) | Выявление критериев успешности видеоигр | *pandas*, *numpy*, *seaborn*, *matplotlib*, *pylab*, *plotly* |
