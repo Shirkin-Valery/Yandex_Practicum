@@ -13,7 +13,7 @@
 |	[Исследовательский анализ данных](03_Yandex_Real_Estate_project) | Исследование объявлений о продаже квартир | *pandas*, *numpy*, *seaborn*, *matplotlib*, *pylab* |
 |	[Статистический анализ данных](04_Mobile_Phone_Tariffs_project) | Определение перспективного тарифа для телеком компании | *pandas*, *numpy*, *seaborn*, *matplotlib*, *pylab*, *datetime*, *scipy* |
 |	[Сборный проект - 1](05_Games_project) | Выявление критериев успешности видеоигр | *pandas*, *numpy*, *seaborn*, *matplotlib*, *pylab*, *scipy* |
-|	[Введение в машинное обучение](phone_tariffs.ipynb | Построение модели для выбора тарифа мобильной связи | *pandas*, *sklearn* |
+|	[Введение в машинное обучение](phone_tariffs.ipynb)| Построение модели для выбора тарифа мобильной связи | *pandas*, *sklearn* |
 |	[Обучение с учителем](churn.ipynb) | Прогноз оттока клиентов из банка | *pandas*, *matplotlib*, *sklearn* |
 |	[Машинное обучение в бизнесе](oil_ml.ipynb) | Выбор региона для бурения скважины | *pandas*, *numpy*, *sklearn* |
 |	[Сборный проект - 2](recovery_gold.ipynb) | Моделирование процесса восстановления золота из золотосодержащей руды | *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn* |
