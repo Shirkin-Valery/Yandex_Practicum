@@ -16,7 +16,7 @@
 |	[Введение в машинное обучение](06_Mobile_Phone_Tariffs_ML_project) | Построение модели для выбора тарифа мобильной связи | *pandas*, *sklearn* |
 |	[Обучение с учителем](07_Churn_ML_project) | Прогноз оттока клиентов из банка | *pandas*, *matplotlib*, *sklearn* |
 |	[Машинное обучение в бизнесе](08_Oil_ML_project) | Выбор региона для бурения скважины | *pandas*, *numpy*, *sklearn* |
-|	[Сборный проект - 2](09_Gold_Recovery_project) | Моделирование процесса восстановления золота из золотосодержащей руды | *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn* |
+|	[Сборный проект - 2](gold_recovery.ipynb) | Моделирование процесса восстановления золота из золотосодержащей руды | *pandas*, *matplotlib*, *seaborn*, *numpy*, *sklearn* |
 |	[Линейная алгебра](Defence_perc_data.ipynb) | Разработка метода защиты данных клиентов страховой компании | *pandas*, *numpy*, *sklearn* |
 |	[Численные методы](auto.ipynb) | Построение модели для определения стоимости автомобиля | *pandas*, *numpy*, *time*, *sklearn*, *lightgbm*, *catboost* |
 |	[Временные ряды](taxi.ipynb) | Прогнозирование количества заказов такси | *pandas*, *numpy*, *matplotlib*, *sklearn*, *lightgbm*, *statsmodels* |
