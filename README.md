@@ -20,7 +20,7 @@
 |	[Линейная алгебра](10_Customer_Data_Protection_LinReg_project) | Разработка метода защиты данных клиентов страховой компании | *pandas*, *numpy*, *sklearn* |
 |	[Численные методы](11_Car_Price_Prediction_project) | Построение модели для определения стоимости автомобиля | *pandas*, *numpy*, *time*, *sklearn*, *lightgbm*, *catboost* |
 |	[Временные ряды](12_Taxi_Orders_Prediction_project) | Прогнозирование количества заказов такси | *pandas*, *numpy*, *matplotlib*, *sklearn*, *lightgbm*, *statsmodels* |
-|	[Машинное обучение для текстов. NLP](13_Toxic_Comments_project) | Построение модели поиска токсичных комментариев | *pandas*, *matplotlib*, *sklearn*, *nltk*, *re* |
+|	[Машинное обучение для текстов. NLP](toxic_comments) | Построение модели поиска токсичных комментариев | *pandas*, *matplotlib*, *sklearn*, *nltk*, *re* |
 |	[Извлечение данных. SQL](14_Airline_Analytics_SQL_project) | Анализ спроса пассажиров на авиабилеты | *pandas*, *numpy*, *matplotlib*, *requests*, *bs4*, *folium* |
 |	[Компьютерное зрение. Сверточные нейросети](15_Face_Recognition_CV_project) | Построение модели определения возраста человека по фотографии | *pandas*, *numpy*, *matplotlib*, *tensorflow* |
 |	[Выпускной проект](16_Metallurgy_final_project) | Разработка модели предсказания температуры стали на металлургическом производстве | *pandas*, *numpy*, *seaborn*, *matplotlib*, *sklearn*, *math*, *warnings*, *lightgbm*, *catboost* |
